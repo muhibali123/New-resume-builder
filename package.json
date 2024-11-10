@@ -1,0 +1,22 @@
+{
+  "name": "xtra",
+  "version": "1.0.0",
+  "description": "",
+  "main": "form.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jspdf": "^2.0.0",
+    "typescript": "^5.6.3"
+  },
+  "dependencies": {
+    "html2canvas": "^1.4.1",
+    "html2pdf.js": "^0.10.2",
+    "inquirer": "^12.0.1",
+    "jspdf": "^2.5.2"
+  }
+}
